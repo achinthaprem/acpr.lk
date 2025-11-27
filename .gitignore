@@ -1,0 +1,27 @@
+# OS-generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+.Spotlight-V100
+.Trashes
+.fseventsd
+.TemporaryItems
+.DocumentRevisions-V100
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Editor and tooling cruft
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Dependency or build outputs (keep clean if added later)
+node_modules/
+dist/
+build/
